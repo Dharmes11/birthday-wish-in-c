@@ -3,7 +3,7 @@
 #include<dos.h>
 void main()
 {
-char i[20],j;
+char i[25],j;
 clrscr();
 textcolor(RED);
 textbackground(WHITE);
