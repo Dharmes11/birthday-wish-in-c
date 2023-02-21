@@ -9,7 +9,7 @@ textcolor(RED);
 textbackground(WHITE);
 printf("\n enter the name :");
 scanf("%s",&i);
-for(j=1;j<=20;j++)
+for(j=1;j<=25;j++)
 {
 cprintf("\n HAPPY BIRTHDAY %s \3",i);
 delay(200);
